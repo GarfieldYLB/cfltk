@@ -1,0 +1,5 @@
+
+name:cfltk_dll
+
+on:
+	workflow_dispatch
